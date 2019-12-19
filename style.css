@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Gelasio|Merriweather&display=swap" rel="stylesheet">);
+
+@import url("components/acceuil.css");
+@import url("components/matchs.css");
+@import url("components/billeterie.css");
+
+body{
+	font-family: 'Merriweather', serif;
+	font-size: 18px;
+}
+h1, h2, h3 {
+	font-family: 'Gelasio', serif;
+	font-weight: bold;
+}
+a {
+	text-decoration: none;
+}
